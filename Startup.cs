@@ -16,6 +16,7 @@ using Project_Catalogue_Produits.Service;
 
 namespace Project_Catalogue_Produits
 {
+    // My startup file
     public class Startup
     {
         public Startup(IConfiguration configuration, IHostingEnvironment env)
